@@ -1,4 +1,3 @@
-console.log('Client-side server is uploaded')
 $(document).ready(function() {
 
     $(window).scroll(function(){
